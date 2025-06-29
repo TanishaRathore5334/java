@@ -21,7 +21,7 @@ import java.util.*;
         System.out.println();
     }
     public static void main(String[] args) {
-        int arr[] = {5,2,8,9,78};
+        int arr[] = {5,2,8,69,98};
         bubbleSort(arr);
         printArr(arr);
         }
