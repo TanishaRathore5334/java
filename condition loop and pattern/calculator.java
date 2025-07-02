@@ -25,7 +25,7 @@ public class calculator{
             case'%' : System.out.println(a%b);
         //    system.out.println(a%b);
             break;
-            default: System.out.print("wrong operator");
+            default: System.out.print(" its wrong operator");
             //system.out.print("wrong operator");
         
 
