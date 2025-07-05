@@ -11,7 +11,7 @@ public class LinearSearchExample {
             
         }
         public static void main(String[]args){
-            int array[]={2,4,0,1,9};
+            int array[]={2,6,0,8,9};
             int x=1;
             int result =LinearSearch(array,x);
             if(result==-1)
