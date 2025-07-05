@@ -21,13 +21,13 @@ System.out.println();
 
 
 //string length....
-//    String fullName = "Tanisha Rathore";
+//    String fullName = "Tanishaaa Rathore";
 //    System.out.println(fullName.length());
 
 
            //concatenation....
 
-        String name = "Twinkle";
+        String name = "Twinklee";
         String surname = "Rathore";
         // String full = name + surname;
         // System.out.println(full);
