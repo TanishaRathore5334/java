@@ -183,7 +183,7 @@ public static int tilingProblem(int n){
     }
 
     public static void main(String args[]){
-        System.out.println(tilingProblem(2));
+        System.out.print(tilingProblem(2));
     }
 
 }
