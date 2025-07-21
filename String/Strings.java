@@ -35,7 +35,7 @@ System.out.println();
 
     printLetters(fullName);
 
-
+    }
              
          }
 
