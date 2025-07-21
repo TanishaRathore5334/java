@@ -127,7 +127,7 @@ public static String compress(String str){
     }
 
     public static void main(String[] args) {
-        String str = "abdfhghuyytytyyytgvvfvy";
+        String str = "abdfhghuyytytyyytgvy";
         System.out.println(compress(str)); // Expected output: "a2b3sd2c2"
     }
 }
