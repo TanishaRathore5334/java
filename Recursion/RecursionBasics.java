@@ -172,7 +172,6 @@ public static int tilingProblem(int n){
     if(n == 0 || n == 1){
         return 1;
     }
-    
     //vertical choice
     int fnm1 = tilingProblem(n-1);
         //horizontal choice
