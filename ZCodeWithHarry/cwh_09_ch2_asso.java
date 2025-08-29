@@ -4,14 +4,14 @@ public class cwh_09_ch2_asso {
         //associativity & prsedence
 
 
-//        int a = 67/2-3*8;
-//
-//               // 33-24
-//                //9
-//
-//        int b = 23*54+65/6;
-//        System.out.println(a);
-//        System.out.println(b);
+       int a = 67/2-3*8;
+
+              // 33-24
+               //9
+
+       int b = 23*54+65/6;
+       System.out.println(a);
+       System.out.println(b);
 
 
         //quike quize
