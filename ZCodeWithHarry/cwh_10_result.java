@@ -12,7 +12,7 @@ public class cwh_10_result {
 //        System.out.println(i);
 //        System.out.println(++i);
 //        System.out.println(i);
-//
+
         int  y = 7;
         System.out.println(++y*8);
 
